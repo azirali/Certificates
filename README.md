@@ -14,13 +14,17 @@
 | [06 — Cybersecurity](06_Cybersecurity) | SOC, защита сетей, incident response и penetration testing | 7 |
 | [07 — Cryptography](07_Cryptography) | Криптография и теория информации | 4 |
 | [08 — Internet of Things](08_Internet_of_Things) | IoT, устройства, сети, облако и безопасность | 9 |
-| [09 — Machine Learning and AI](09_Machine_Learning_and_AI) | Машинное обучение и AI | 3 |
+| [09 — Machine Learning and AI](09_Machine_Learning_and_AI) | Машинное обучение и AI | 4 |
 | [10 — Computer Architecture and Digital Design](10_Computer_Architecture_and_Digital_Design) | Архитектура компьютеров, FPGA, VLSI и digital design | 6 |
 | [11 — Unity and Game Development](11_Unity_and_Game_Development) | Unity и разработка игр | 5 |
 | [12 — Other](12_Other) | Critical thinking и version control | 2 |
 | [13 — University Documents](13_University_Documents) | Диплом и приложение к диплому | 1 |
 
-Всего: **90 PDF-файлов и 2 изображения**.
+Всего: **91 PDF-файл и 2 изображения**.
+
+## Последнее добавление
+
+- **HackAlem AI - сертификат участника**, Астана, 30 октября 2026 года. [Открыть PDF](09_Machine_Learning_and_AI/CERT-20261030-D1C3AD2E.pdf).
 
 ## Структура
 
